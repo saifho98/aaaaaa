@@ -1,0 +1,5 @@
+mainprefix: "%"
+defaultjoinmessage: "**{user} Joined Invited By {Inviter} (Invites: {inv})**"
+defaultleavemessage: "**{user} Left, Invited by {inviter}**"
+token: "Nzc0MDA4NTM2OTU0NTY4NzM0.X6Rhnw.donM-IXlnbXA5mxs834LSv9LfwI"
+color: "BLUE
